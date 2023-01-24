@@ -49,8 +49,8 @@ for dbc_path in list_dbc:
 # HOW IN C SHOULD HAVE LOOKED!!
 # msg = ""
 # for (i, i<n, i++){
-# 	msg = db.message(i)
-# 	msg 
+# 	msg = db.message(i);
+# 	msg ...
 # }
 
 # save to excel
